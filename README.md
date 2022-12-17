@@ -17,3 +17,7 @@ if you can access that you are good to go!
 
 
 This code is made using FastAPI
+
+
+
+THE WINDOWS APP CAN BE FOUND HERE https://github.com/IndigoCoke390/client_api_desktop_app
