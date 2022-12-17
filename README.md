@@ -9,9 +9,10 @@ SETTING UP:
 
 
 1. clone the repo
-2. download requirements "pip3 install -r requirements.txt"
-3. start up the project "uvicorn main:app --reload" or for production: "uvicorn main:app --host 0.0.0.0"
-4. check if everything is working "http://your_ip:8000/docs"
+2. change the password inside the config.json file (default password is "change_me")
+3. download requirements "pip3 install -r requirements.txt"
+4. start up the project "uvicorn main:app --reload" or for production: "uvicorn main:app --host 0.0.0.0"
+5. check if everything is working "http://your_ip:8000/docs"
 
 if you can access that you are good to go!
 
